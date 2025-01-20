@@ -98,7 +98,7 @@ torch.distributed를 통해 프로세스 간 그래디언트를 공유하고
 한다. 
 
 3. ViT-GPT 기반 트랜스포머 모델
-4. 
+
 연구의 실험에서 사용한3가지 트랜스포머 모델인
 
 Seq2Seqtrainer를 활용한vit-gpt2기반 트랜스포머모델 ,일
